@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **juancarlosanguloabud@gmail.com**
 
-- 📄 Know about my experiences [I've done a lot of courses of mainly frontend, php, html, css, js, but soon I'll learn some backend too](I've done a lot of courses of mainly frontend, php, html, css, js, but soon I'll learn some backend too)
+- 📄 Know about my experiences: I've done a lot of courses of mainly frontend, php, html, css, js, but soon I'll learn some backend too
 
 - ⚡ Fun fact **I like to talk a lot but with just the people I have confidence with, otherwise I'm very shy**
 
