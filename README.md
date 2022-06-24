@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django, Laravel, Javascript and python**
 
-- 👯 I’m looking to collaborate on a big SEO company [ahref](ahref.com)
+- 👯 I’m looking to make myself known
 
 - 📫 How to reach me **juancarlosanguloabud@gmail.com**
 
