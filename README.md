@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A junior frontend developer from Venezuela</h3>
 
-- 🔭 I’m currently working on a small news page [Cripto Avances](https://cripto-avances.com)
+- 🔭 I’m currently working on AL Growth Marketing
 
-- 🌱 I’m currently learning **Django, Laravel, Javascript and python**
+- 🌱 I’m currently learning **React, Laravel, Javascript and python**
 
 - 👯 I’m looking to make myself known
 
