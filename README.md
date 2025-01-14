@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
-
+<img src="https://www.codewars.com/users/Sve-nnN/badges/large" alt="code wars svennn"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sve-nnn" alt="sve-nnn" /></a> </p>
 
 - 🔭 I’m currently working on [AL Growth Marketing](https://aprendoseo.com/)
