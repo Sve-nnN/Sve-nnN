@@ -59,9 +59,7 @@ Client tooling such as the content engine, technical audit automation and market
 
 ## Activity
 
-Both images below are generated daily by GitHub Actions from public data.
-
-<img src="assets/metrics.svg" alt="Most used programming languages and recent public activity on my GitHub account, refreshed daily by a workflow." width="100%">
+The image below is generated daily by a GitHub Actions workflow from public data.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
