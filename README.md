@@ -1,38 +1,73 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
-<img src="https://www.codewars.com/users/Sve-nnN/badges/large" alt="code wars svennn"/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sve-nnn" alt="sve-nnn" /></a> </p>
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" alt="Juan Carlos Angulo. Technical SEO engineer and software engineering student." width="100%">
+  </picture>
+</h1>
 
-- 🔭 I’m currently working on [AL Growth Marketing](https://aprendoseo.com/)
+Technical SEO engineer and software engineering student. I build the tools I use to audit, publish and measure organic search at scale.
 
-- 🌱 I’m currently learning **C++ and Typescript**
+Lima, Peru · UPC Software Engineering (graduating December 2027) · English C1 · [juan-tech.com](https://juan-tech.com)
 
-- 👨‍💻 All of my projects are available at [juan-tech.com](juan-tech.com)
+## What I do
 
-- 📝 I will start writing articles on [juan-tech.com/blog](juan-tech.com/blog)
+- **Technical SEO.** Five years running organic growth for 18+ international clients: crawl and indexation, site migrations, structured data, international SEO.
+- **Software that automates that work.** Crawlers, audit engines, reporting bots and content pipelines in TypeScript, Python and Node.
+- **Websites with SEO built in.** Next.js, Astro, Payload CMS and WordPress, with Core Web Vitals and schema handled from the first commit.
 
-- 💬 Ask me about **react, algorithms**
+## Selected work
 
-- 📫 How to reach me **juancarlosanguloabud@gmail.com**
+| Project | What it does | Stack |
+|---|---|---|
+| [Audits-JuanTech](https://github.com/Sve-nnN/Audits-JuanTech) | Audit platform. Crawls up to 500 URLs, runs over 30 checks across technical SEO, on-page, structured data and AI search visibility, adds Core Web Vitals through PageSpeed Insights and diffs every run against the previous one. | Next.js, Node, BullMQ, Prisma, PostgreSQL |
+| [SEO-Skills](https://github.com/Arianna-Lupi/SEO-Skills) | 20 skills and 3 agents that automate SEO workflows inside Claude Code, installable with one command. Also works with Cursor, Codex and Copilot. | Markdown skills, Python, shell |
+| [TaskAutomation](https://github.com/Arianna-Lupi/TaskAutomation) | Turns a free-form Slack message into a complete ClickUp task. Verifies Slack signatures, deduplicates retries and runs on serverless. | TypeScript, Slack Bolt, Upstash, Vitest |
+| [Client-Rank-Reporting](https://github.com/Arianna-Lupi/Client-Rank-Reporting) | Slack bot that reports Search Console metrics per client, with day over day change. | TypeScript, Vercel, Upstash |
+| [opportunities](https://github.com/Sve-nnN/opportunities) | Personal dashboard that syncs internship and program listings from public GitHub sources and tracks my applications. | Next.js, Drizzle, PostgreSQL |
+| [loopsgrowth-landing](https://github.com/Arianna-Lupi/loopsgrowth-landing) | Static acquisition site for an SEO and GEO agency. | Astro, Tailwind |
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/hiimjuan/](https://www.linkedin.com/in/hiimjuan/)
+Client tooling such as the content engine, technical audit automation and market audit scripts lives in private repositories. I am happy to walk through any of it.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hiimjuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiimjuan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/juancarlosangul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juancarlosangul1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sve-nnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sve-nnn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sve-nnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sve-nnn" height="30" width="40" /></a>
+## Stack
+
+<p>
+  <img src="assets/icons/typescript.svg" width="32" height="32" alt="TypeScript">
+  <img src="assets/icons/javascript.svg" width="32" height="32" alt="JavaScript">
+  <img src="assets/icons/python.svg" width="32" height="32" alt="Python">
+  <img src="assets/icons/nextdotjs.svg" width="32" height="32" alt="Next.js">
+  <img src="assets/icons/react.svg" width="32" height="32" alt="React">
+  <img src="assets/icons/astro.svg" width="32" height="32" alt="Astro">
+  <img src="assets/icons/postgresql.svg" width="32" height="32" alt="PostgreSQL">
+  <img src="assets/icons/docker.svg" width="32" height="32" alt="Docker">
+  <img src="assets/icons/nodedotjs.svg" width="32" height="32" alt="Node.js">
+  <img src="assets/icons/wordpress.svg" width="32" height="32" alt="WordPress">
+  <img src="assets/icons/webflow.svg" width="32" height="32" alt="Webflow">
+  <img src="assets/icons/payloadcms.svg" width="32" height="32" alt="Payload CMS">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Languages:** TypeScript, JavaScript, Python, SQL, Java, C++
+- **Web:** Next.js, React, Astro, Payload CMS, WordPress, Webflow
+- **Data and infra:** PostgreSQL, Drizzle, Prisma, BullMQ, Redis, Docker, Dokploy
+- **SEO:** Search Console, GA4, Screaming Frog, Ahrefs, PageSpeed Insights, Schema.org
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/svennn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="svennn" /></a></p><br><br>
+## How I work
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sve-nnn&show_icons=true&locale=en&layout=compact" alt="sve-nnn" /></p>
+- I build the tools I use to audit, publish and measure organic search, and I automate whatever I catch myself repeating.
+- Audits-JuanTech has 33 check ids and 438 tests, so I trust what it reports.
+- Core Web Vitals and schema go in from the first commit, not in a cleanup pass.
+- Client work stays private, and I'll walk anyone through it.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sve-nnn&show_icons=true&locale=en" alt="sve-nnn" /></p>
+## Activity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sve-nnn&" alt="sve-nnn" /></p>
+Both images below are generated daily by GitHub Actions from public data.
+
+<img src="assets/metrics.svg" alt="Most used programming languages and recent public activity on my GitHub account, refreshed daily by a workflow." width="100%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg">
+  <img src="assets/snake-light.svg" alt="Animated snake eating the squares of my public GitHub contribution graph, generated daily." width="100%">
+</picture>
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/juancangulo/) · [Email](mailto:juancarlosanguloabud@gmail.com) · [juan-tech.com](https://juan-tech.com)

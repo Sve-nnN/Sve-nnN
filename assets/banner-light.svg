@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="banner-title banner-desc">
+  <title id="banner-title">Juan Carlos Angulo, technical SEO engineer and software engineering student</title>
+  <desc id="banner-desc">A light banner with the name Juan Carlos Angulo in large type, the headline Technical SEO engineer and software engineering student, and the line I build the tools I use to audit, publish and measure organic search at scale. A short blue accent bar sits above the name and three small rounded bars sit on the right edge.</desc>
+  <rect x="0" y="0" width="1200" height="300" rx="16" fill="#f7fbfc" stroke="#d1d9dc" stroke-width="2"/>
+  <rect x="72" y="64" width="64" height="6" rx="3" fill="#0072d5"/>
+  <text x="72" y="140" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif" font-size="64" font-weight="700" fill="#101d21">Juan Carlos Angulo</text>
+  <text x="72" y="192" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif" font-size="28" font-weight="600" fill="#0072d5">Technical SEO engineer and software engineering student</text>
+  <text x="72" y="236" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;Helvetica Neue&quot;, Arial, sans-serif" font-size="20" font-weight="400" fill="#46595f">I build the tools I use to audit, publish and measure organic search at scale</text>
+  <g aria-hidden="true">
+    <rect x="1068" y="104" width="60" height="10" rx="5" fill="#0072d5"/>
+    <rect x="1068" y="132" width="44" height="10" rx="5" fill="#d1d9dc"/>
+    <rect x="1068" y="160" width="28" height="10" rx="5" fill="#d1d9dc"/>
+  </g>
+</svg>
